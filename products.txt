@@ -1,0 +1,305 @@
+﻿--1
+Name: YI Home Camera
+Category: Gadgets and accessories
+sub-category: camera
+price: 29.99
+img1: https://images-na.ssl-images-amazon.com/images/I/51M2MegsdlL._AC_SL1200_.jpg
+img2: https://images-na.ssl-images-amazon.com/images/I/61JjjDKFTkL._AC_SL1200_.jpg
+img3: https://images-na.ssl-images-amazon.com/images/I/71vFLPx4s3L._AC_SL1200_.jpg
+description: 
+Wi-fi IP indoor security system with motion detection, night vision for baby / pet / front porch monitor, remote control with iOS, Andriod, PC app - cloud service availabe.
+
+Records in 720p HD to capture clear images for your records and while using 2-way audio (built-in microphone and speaker). 720P/20FPS,700Kbps; 360P/20FPS,200Kbps.
+
+111 degree wide-angle lens, 940nm infrared non-invasive sensor, 4x digital zoom. Capture the scene in clarity with the wide-angle lens and zoom capabilities. The non-invasive sensor will not disturb your sleeping children. 
+
+Built-in support for 802.11b/g/n 2.4Ghz (5Ghz currently not supported) WIFI band. Reliable Wi-Fi connectivity to access your camera with YI Home App on mobile device, and YI Home App on PC at anytime, anywhere.
+
+Real-time streaming to your phone & activity alerts when motion is detected. YI Home App allows you to customize your settings according to your preferences: defined activity regions, camera sharing, customize alert schedules, and more. Available for iOS and Android. 
+
+--2
+name: Youud protable closet
+category: Furniture
+sub-category: closet
+price: 36.99
+img1: https://images-na.ssl-images-amazon.com/images/I/61VleCwK-IL._AC_SL1183_.jpg
+img2: https://images-na.ssl-images-amazon.com/images/I/71fnT2zmRSL._AC_SL1273_.jpg
+img3: https://images-na.ssl-images-amazon.com/images/I/61mZotrbp-L._AC_SL1002_.jpg
+description: 
+Overall dimensions with headboard (LxWxH): 83. 5 by 62. 5 by 41 inches 
+
+Queen size platform bed in Beige fabric with Tufted headboard 
+
+Box Spring not required; Slats support included - mattress required, sold separately - assembly required 
+
+Mid Century modern design - Solid and Sturdy wood frame – durable fabric upholstery
+
+Buy with Confidence and worry free, protected by DG Casa 1 year limited. View technical specification for more information 
+
+
+--3
+name: Acer Nitro 5 Gaming Laptop
+category: Gadgets and accessories
+sub-category: laptop
+price: 739.00
+img1: https://images-na.ssl-images-amazon.com/images/I/91YPp32q3tL._AC_SL1500_.jpg
+img2: https://images-na.ssl-images-amazon.com/images/I/91H9KQhzyZL._AC_SL1500_.jpg
+img3: https://images-na.ssl-images-amazon.com/images/I/81Rqq0%2BdGWL._AC_SL1500_.jpg
+description: 
+7th Generation Intel Core i5-7200U Processor (Up to 3.1GHz) 
+
+15.6" Full HD Widescreen Comfy View LED-backlit Display supporting Acer Color Blast technology
+
+NVIDIA GeForce 940MX with 2GB of GDDR5 Video Memory
+
+8GB DDR4 Memory, 256GB SSD,Card Reader:SD Card
+
+Up to 12-hours Battery Life
+
+
+
+--4
+name: Dell Precision 5540 Mobile Workstation
+category: Gadgets and accessories
+sub-category: Laptop
+price: 2450.00
+img1: https://images-na.ssl-images-amazon.com/images/I/51cvs8zOsSL._AC_SL1000_.jpg
+img2: https://images-na.ssl-images-amazon.com/images/I/514bdLkcHkL._AC_SL1000_.jpg
+img3: https://images-na.ssl-images-amazon.com/images/I/61mVhNaiNJL._AC_SL1000_.jpg
+description: 
+Dell 15.6 inch Precision 5540 Mobile Workstation - Platinum Silver
+
+15.6 inch Ultrasharp UHD (3840 x 2160) IGZO4 100% Adobe Touch Display, HD Camera
+
+16GB, 2X8G, DDR4 2666MHz - M.2 512GB PCIe NVMe Class 40 Solid State Drive 
+
+Intel (R) Core (TM) Processor i7-9850H,(6 Core, 12M Cache, 2 .60GHz up to 4.6GHz Turbo, 45W , vPro)
+
+Nvidia Quadro T2000 w/4GB GDDR 5 - WINDOWS 10 PRO 
+
+
+--5
+name: Samsung Galaxy S20 FE 5G
+category: Gadgets and accessories
+sub-category: Smartphone
+price: 699.99
+img1: https://images-na.ssl-images-amazon.com/images/I/71z2dc%2BXnrL._AC_SL1500_.jpg
+img2: https://images-na.ssl-images-amazon.com/images/I/61X3Z-gRI-L._AC_SL1500_.jpg
+img3: https://images-na.ssl-images-amazon.com/images/I/71RTy1cqRBL._AC_SL1500_.jpg
+description: 
+Pro-Grade Camera: The new Samsung Galaxy S20 FE mobile phone features high-powered pro lenses for beautiful portraits, stunning landscapes and crisp close-ups in any light with its 3X optical zoom 
+
+30X Space Zoom: Whether you want your cellphone to zoom in close from afar or magnify details of something nearby, 30X Space Zoom gives you the power to get closer 
+
+Night Mode: Capture crisp images and vibrant video with Night Mode and create high-quality content in low light — no flash required with this smartphone
+
+Single-Take AI: One tap of the screen captures multiple images and video all at once; Lenses, effects and filters capture the best of every moment, every time 
+
+Power of 5G: Get next-level power for everything you love to do with Samsung Galaxy 5G; More sharing, more gaming, more experiences and never miss a beat 
+
+
+--6
+name: Motorola Edge Solor Black
+category: Gadgets and accessories
+sub-category: Smartphone
+price: 497.07
+img1: https://images-na.ssl-images-amazon.com/images/I/61aWtezBYlL._AC_SL1500_.jpg
+img2: https://images-na.ssl-images-amazon.com/images/I/61HDc9fkJ3L._AC_SL1500_.jpg
+img3: https://images-na.ssl-images-amazon.com/images/I/61fGWAzCZGL._AC_SL1500_.jpg
+description: 
+Modern Design - Elegant square shade table lamp, perfect for your desk, living room, or bedside table. Upgrade the look of your space today! 
+
+Wireless Phone Charging Pad - Wireless charging pad integrated into the lamp base allowing you to declutter your desk or table! Simply place your phone on top of the front of the lamp base and to wirelessly charge your phone! 
+
+USB Charging Port - Along with the integrated wireless charging pad, there is also a USB charging port located on the back of the lamp base! (USB Charging cable and phone not included).
+
+Wireless Charging Base is large enough to easily fit phones with up to 6.5” screen size. Compatible with any wireless charging (Qi standard) phone including iPhone 8 and newer, Samsung Galaxy S7 and newer, and many other phones!
+
+Rated for 60W Max light bulb (bulb not included). 
+
+
+--7
+name: Bedroom Lamp
+category: Electronics
+sub-category: light
+price: 41.98
+img1: https://images-na.ssl-images-amazon.com/images/I/81MWA9VizQL._AC_SL1500_.jpg
+img2: https://images-na.ssl-images-amazon.com/images/I/91M9BiEhmQL._AC_SL1500_.jpg
+img3: https://images-na.ssl-images-amazon.com/images/I/71zXwhrWSwL._AC_SL1500_.jpg
+description: 
+Modern Design - Elegant square shade table lamp, perfect for your desk, living room, or bedside table. Upgrade the look of your space today! 
+
+Wireless Phone Charging Pad - Wireless charging pad integrated into the lamp base allowing you to declutter your desk or table! Simply place your phone on top of the front of the lamp base and to wirelessly charge your phone! 
+
+USB Charging Port - Along with the integrated wireless charging pad, there is also a USB charging port located on the back of the lamp base! (USB Charging cable and phone not included).
+
+Wireless Charging Base is large enough to easily fit phones with up to 6.5” screen size. Compatible with any wireless charging (Qi standard) phone including iPhone 8 and newer, Samsung Galaxy S7 and newer, and many other phones!
+
+Rated for 60W Max light bulb (bulb not included). 
+
+
+--8
+name: Xbox One S 1TB Console
+category: Electronics
+sub-category: gaming
+price: 399.00
+img1: https://images-na.ssl-images-amazon.com/images/I/71XHuIVqJbL._AC_SL1500_.jpg
+img2: https://images-na.ssl-images-amazon.com/images/I/610ERxhX5QL._AC_SL1080_.jpg
+img3: https://images-na.ssl-images-amazon.com/images/I/71B8lSzmrvL._AC_SL1500_.jpg
+description: 
+Previous generation bundle includes: Xbox One S 1TB console, one Xbox Wireless Controller (with 3.5mm headset jack), HDMI cable (4K Capable), AC Power cable. 1 Month Xbox Game Pass trial, 14 Day Xbox Live Gold trial 
+
+Play over 2,200 games including more than 200 exclusives and over 600 classics from Xbox 360 and Original Xbox. (Games sold separately.) 
+
+Play with friends and family near and far sitting together on the sofa or around the world on Xbox Live, the fastest, most reliable gaming network 
+
+Xbox One family settings let you choose privacy, screen time, and content limits for each member of the family. 
+
+Watch 4K Blu ray movies; stream 4K video on Netflix, Amazon, and YouTube, among others; and listen to music with Spotify 
+
+
+--9
+name: Study table
+category: Furniture
+sub-category: table
+price: 27.23
+img1: https://images-na.ssl-images-amazon.com/images/I/81Bc-ihczrL._AC_SL1500_.jpg
+img2: https://images-na.ssl-images-amazon.com/images/I/61SmnGmivfL._AC_SL1500_.jpg
+img3: https://images-na.ssl-images-amazon.com/images/I/71uunpZzILL._AC_SL1500_.jpg
+description: 
+Simple stylish design, Functional and suitable for any room 
+
+Material: Premium quality composite wood 
+
+Fits in your space, fits on your budget 
+
+Sturdy on flat surface; assembly required; Please refer to the manual guide Link in product description 
+
+Product Dimensions: 31. 5 (W) x 29. 8 (H) x 15. 5 (D) Inches 
+
+
+--10
+name: Youud protable closet
+category: Furniture
+sub-category: closet
+price: 36.99
+img1: https://images-na.ssl-images-amazon.com/images/I/61VleCwK-IL._AC_SL1183_.jpg
+img2: https://images-na.ssl-images-amazon.com/images/I/71fnT2zmRSL._AC_SL1273_.jpg
+img3: https://images-na.ssl-images-amazon.com/images/I/61mZotrbp-L._AC_SL1002_.jpg
+description: 
+Overall dimensions with headboard (LxWxH): 83. 5 by 62. 5 by 41 inches 
+
+Queen size platform bed in Beige fabric with Tufted headboard 
+
+Box Spring not required; Slats support included - mattress required, sold separately - assembly required 
+
+Mid Century modern design - Solid and Sturdy wood frame – durable fabric upholstery
+
+Buy with Confidence and worry free, protected by DG Casa 1 year limited. View technical specification for more information 
+
+
+--11
+name: Zinus Shalini Platform, King size, Dark Grey
+category: furniture
+sub-category: bedroom
+price: 499.00
+img1: https://images-na.ssl-images-amazon.com/images/I/81kUXHM-FSL._AC_SL1500_.jpg
+img2: https://images-na.ssl-images-amazon.com/images/I/71KXBbzk9YL._AC_SL1500_.jpg
+img3: https://images-na.ssl-images-amazon.com/images/I/819%2B5tGM8sL._AC_SL1500_.jpg
+description: 
+Overall dimensions with headboard (LxWxH): 83. 5 by 62. 5 by 41 inches 
+
+Queen size platform bed in Beige fabric with Tufted headboard 
+
+Box Spring not required; Slats support included - mattress required, sold separately - assembly required 
+
+Mid Century modern design - Solid and Sturdy wood frame – durable fabric upholstery
+
+Buy with Confidence and worry free, protected by DG Casa 1 year limited. View technical specification for more information 
+
+
+--12
+name: Spinner Suitcase Luggage
+category: Travel gear
+sub-category: suitcase
+price: 50.00
+img1: https://images-na.ssl-images-amazon.com/images/I/71s7HbyqzEL._AC_SL1500_.jpg
+img2: https://images-na.ssl-images-amazon.com/images/I/81TYgAOS6HL._AC_SL1500_.jpg
+img3: https://images-na.ssl-images-amazon.com/images/I/91SJsAkdZDL._AC_SL1500_.jpg
+description: 
+Black, Small 21-inch hardside spinner luggage for weekend getaways or as international carry-on
+
+Interior capacity: 39 Liters 
+
+Weight: 7.34 lbs.
+
+Protective hard shell with scratch-resistant finish; made of extra-thick ABS (thicker than the competition) for enhanced strength and durability 
+
+Expandable for up to 15% additional packing capacity; solid, strong zippers; telescoping handle for comfortable maneuvering; securely mounted short handle
+
+
+
+
+--13
+name: Kenneth Cole Reaction Renegade suitcase
+category: tavel gear
+sub-category: suitcase
+price: 60.98
+img1: https://images-na.ssl-images-amazon.com/images/I/81DwGWv5PxL._AC_SL1500_.jpg
+img2: https://images-na.ssl-images-amazon.com/images/I/91EA-QcjS-L._AC_SL1500_.jpg
+img3: https://images-na.ssl-images-amazon.com/images/I/81Y%2BNp978zL._AC_SL1500_.jpg
+description: 
+8-wheel multi-directional spinners for effortless handling 
+
+Expands an additional 2 inches 
+
+Main compartment interior features several zippered organization pockets elastic shoe pockets and a garment restraint panel 
+
+Ergonomically designed retractable trolley handle 
+
+Sleek and stylish exterior with corner guard reinforcements helps protect your bag from damage
+
+
+
+--14
+name: AmazonBasics Vienna Spinner Suitcase Luggage
+category: Tavel gear
+sub-category: suitcase
+price: 55.00
+img1: https://images-na.ssl-images-amazon.com/images/I/91kItaMyvGL._AC_SL1500_.jpg
+img2: https://images-na.ssl-images-amazon.com/images/I/81ECpCIiZ3L._AC_SL1500_.jpg
+img3: https://images-na.ssl-images-amazon.com/images/I/91LjfCr4YDL._AC_SL1500_.jpg
+description: 
+Outer dimensions (including wheels): 20.4 x 12.9 x 30.7 Inches; Interior dimensions: 19.2 x 12.6 x 27.7 Inches 
+
+Interior capacity: 111 Liters 
+
+Weight: 11.71 lbs.
+
+Rolling luggage case with durable scratch-resistant exterior
+
+Great for air travel, road trips, or business
+
+
+
+
+--15
+name: Baxton Studio Frey Nightstand
+category: furniture
+sub-category: bedroom
+price: 40.00
+img1: https://images-na.ssl-images-amazon.com/images/I/71avD7Bt6nL._AC_SL1500_.jpg
+img2: https://images-na.ssl-images-amazon.com/images/I/61TqQNZrSlL._AC_SL1500_.jpg
+img3: https://images-na.ssl-images-amazon.com/images/I/71avD7Bt6nL._AC_SL1500_.jpg
+description: 
+Contemporary upholstered nightstand 
+
+White faux leather
+
+Plywood and hardwood frame with polyurethane foam padding
+
+Two drawers, each with silver drawer pulls
+
+Made in Malaysia 
+
+'1234567asdfghjklzxcvbnm'
